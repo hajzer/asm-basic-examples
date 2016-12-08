@@ -1,4 +1,4 @@
 # asm-basic-examples
-Basic examples in ASM (assembler)
+Basic examples in ASM (Assembler)
 
 > !!! Very old staff !!!
